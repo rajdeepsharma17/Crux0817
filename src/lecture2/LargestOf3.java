@@ -25,6 +25,7 @@ public class LargestOf3 {
 			}
 			else
 				System.out.println("c is greatest");
+		scn.close();
 
 	}
 
