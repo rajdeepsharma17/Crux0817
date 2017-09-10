@@ -6,7 +6,13 @@ public class DataTypeDemo {
 		byte a = 10;
 		short b = 128;
 		int c = 30;
-		long d = 40;
+		long d = 44444444444444L;
+		float e  = 5.0F;
+		boolean g= true;
+		if(g){
+			System.out.println("I m true");
+		}
+		
 		
 		a = (byte)b;
 		System.out.println(a);
